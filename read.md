@@ -1,4 +1,5 @@
-## heyo everyoune , welcome to my gitguid!
+## Welcome to git
 
--yow gelo here
+-this is coming from dev angelo
+-yow gelo her
 -im adding this from feature branch
